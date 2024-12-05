@@ -1,0 +1,13 @@
+[{
+"osname":"anolis",
+"version":"23.1",
+"rpmfile":"http://mirrors.openanolis.cn/anolis/23.1/os/loongarch64/os/Packages/anolis-release-23-7.an23.loongarch64.rpm",
+"repofile":"repo/anolis-23.1.repo"
+},
+{
+"osname":"openeuler",
+"version":"openEuler-24.03-LTS",
+"rpmfile":"https://mirrors.tuna.tsinghua.edu.cn/openeuler/openEuler-24.03-LTS/OS/loongarch64/Packages/openEuler-release-24.03LTS-55.oe2403.loongarch64.rpm",
+"repofile":"repo/openeuler-openEuler-24.03-LTS.repo"
+}
+]

@@ -1,0 +1,11 @@
+[os]
+name=AnolisOS-23.1 - os
+baseurl=http://mirrors.openanolis.cn/anolis/23.1/os/loongarch64/os
+enabled=1
+gpgcheck=0
+
+[updates]
+name=AnolisOS-23.1 - updates
+baseurl=http://mirrors.openanolis.cn/anolis/23.1/updates/loongarch64/os
+enabled=1
+gpgcheck=0

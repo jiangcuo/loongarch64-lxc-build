@@ -1,0 +1,5 @@
+[os]
+name=openEuler-24.03-LTS - os
+baseurl=https://mirrors.tuna.tsinghua.edu.cn/openeuler/openEuler-24.03-LTS/OS/loongarch64
+enabled=1
+gpgcheck=0
